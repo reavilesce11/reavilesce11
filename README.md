@@ -46,8 +46,8 @@ I use AI assistants to generate hypotheses, examine counterexamples, review chan
 
 I am developing sanitized demonstrations of AI-assisted investigation, including hypothesis tracking, adversarial review, context control, counterfactual experiments, and evidence-based acceptance. All public examples use synthetic data and exclude credentials, proprietary logic, trading rules, and profitability claims.
 
-## Open to
+## Contact
 
-Data Quality · Metadata Operations · Content Operations · Data Operations · Junior Data Analysis · Junior Data Stewardship — remote, LATAM or U.S. hours. Bilingual English / Spanish.
+Bilingual English / Spanish · LATAM and U.S. hours.
 
 [LinkedIn](https://www.linkedin.com/in/renato-aviles-tech) · [reavilesce@gmail.com](mailto:reavilesce@gmail.com)
